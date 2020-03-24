@@ -1,0 +1,10 @@
+/home/legusie/RiderProjects/OGM2/OGM2/bin/Debug/netcoreapp2.0/OGM2.deps.json
+/home/legusie/RiderProjects/OGM2/OGM2/bin/Debug/netcoreapp2.0/OGM2.runtimeconfig.json
+/home/legusie/RiderProjects/OGM2/OGM2/bin/Debug/netcoreapp2.0/OGM2.runtimeconfig.dev.json
+/home/legusie/RiderProjects/OGM2/OGM2/bin/Debug/netcoreapp2.0/OGM2.dll
+/home/legusie/RiderProjects/OGM2/OGM2/bin/Debug/netcoreapp2.0/OGM2.pdb
+/home/legusie/RiderProjects/OGM2/OGM2/obj/Debug/netcoreapp2.0/OGM2.csprojAssemblyReference.cache
+/home/legusie/RiderProjects/OGM2/OGM2/obj/Debug/netcoreapp2.0/OGM2.AssemblyInfoInputs.cache
+/home/legusie/RiderProjects/OGM2/OGM2/obj/Debug/netcoreapp2.0/OGM2.AssemblyInfo.cs
+/home/legusie/RiderProjects/OGM2/OGM2/obj/Debug/netcoreapp2.0/OGM2.dll
+/home/legusie/RiderProjects/OGM2/OGM2/obj/Debug/netcoreapp2.0/OGM2.pdb

@@ -1,0 +1,6 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/AssemblyExplorer/XmlDocument/@EntryValue">&lt;AssemblyExplorer&gt;
+  &lt;Assembly Path="/opt/dotnet/packs/Microsoft.NETCore.App.Ref/3.0.0/ref/netcoreapp3.0/System.Numerics.Vectors.dll" /&gt;
+  &lt;Assembly Path="/home/legusie/.nuget/packages/managedbass/2.0.4/lib/netstandard1.4/ManagedBass.dll" /&gt;
+  &lt;Assembly Path="/home/legusie/.nuget/packages/osuparsers/1.6.5/lib/netstandard2.0/OsuParsers.dll" /&gt;
+&lt;/AssemblyExplorer&gt;</s:String></wpf:ResourceDictionary>

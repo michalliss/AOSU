@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$USER_HOME$/.Rider2019.2/system/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/.Rider2019.2/system/resharper-host/local/Transient/ReSharperHost/v192/SolutionCaches/_OGM2.604965568.00" t="ExcludeRecursive" />
+    <e p="$PROJECT_DIR$" t="IncludeFlat">
+      <e p="OGM2" t="IncludeRecursive">
+        <e p="Actors" t="Include">
+          <e p="Audio.cs" t="Include" />
+          <e p="Input.cs" t="Include" />
+          <e p="MapReader.cs" t="Include" />
+          <e p="Message.cs" t="Include" />
+          <e p="Referee.cs" t="Include" />
+          <e p="Renderer.cs" t="Include" />
+          <e p="TickGenerator.cs" t="Include" />
+        </e>
+        <e p="CircularBuffer.cs" t="Include" />
+        <e p="Entities" t="Include">
+          <e p="AppCircle.cs" t="Include" />
+          <e p="ECircle.cs" t="Include" />
+          <e p="ECursor.cs" t="Include" />
+          <e p="ESlider.cs" t="Include" />
+          <e p="HitObject.cs" t="Include" />
+          <e p="Trail.cs" t="Include" />
+        </e>
+        <e p="Entities.cs" t="Include" />
+        <e p="OGM2.csproj" t="IncludeRecursive" />
+        <e p="Program.cs" t="Include" />
+        <e p="Resources" t="Include">
+          <e p="approachcircle.png" t="Include" />
+          <e p="audio.mp3" t="Include" />
+          <e p="circle.png" t="Include" />
+          <e p="cursor.png" t="Include" />
+          <e p="cursortrail.png" t="Include" />
+          <e p="hitsound.wav" t="Include" />
+          <e p="map.osu" t="Include" />
+          <e p="muzyka.mp3" t="Include" />
+          <e p="sliderscorepoint.png" t="Include" />
+        </e>
+        <e p="Utils" t="Include">
+          <e p="BezierCurve.cs" t="Include" />
+          <e p="CircleCurve.cs" t="Include" />
+        </e>
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.0" t="Include">
+              <e p="OGM2.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="sdl" t="Include">
+          <e p="SDL2.cs" t="Include" />
+          <e p="SDL2_image.cs" t="Include" />
+        </e>
+      </e>
+      <e p="OGM2.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
